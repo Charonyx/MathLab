@@ -1,6 +1,6 @@
-<h2>MATHLAB</h2>
+<h1>MATHLAB</h1>
 
-<h5>Lab Circuits</h5>
+<h3>Lab Circuits</h3>
 
 1D semester 2 | 2564
 
